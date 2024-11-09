@@ -1,0 +1,4 @@
+/Users/asdfg/ultralytics-main/ultralytics/assets/bus.jpg
+/Users/asdfg/ultralytics-main/ultralytics/assets
+/Users/asdfg/ultralytics-main/ultralytics/assets/*
+/Users/asdfg/ultralytics-main/ultralytics/assets/**/*.jpg
